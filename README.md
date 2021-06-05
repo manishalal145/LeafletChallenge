@@ -17,9 +17,9 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ### Level 2: More Data
 
-Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
-In this step we did the following:
-* Ploted a second data set on our map.
+Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>. 
+In this step I did the following:
+* Ploted a second data set on the map.
 * Added a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 * Added layer controls to our map.
 ![5-Advanced](Images/5-Advanced.png)
